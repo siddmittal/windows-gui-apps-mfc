@@ -5,7 +5,7 @@
 HelloApp helloApp;
 
 /////////////////////////////////////////////////////////////////////////
-// CMyApp member functions
+// helloApp member functions
 
 BOOL HelloApp::InitInstance()
 {
