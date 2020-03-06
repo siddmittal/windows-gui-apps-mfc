@@ -43,7 +43,7 @@ CMainWindow::CMainWindow()
 	//
 	// Create a window.
 	//
-	Create(strWndClass, _T("Mouse Capture Demo (Capture Enabled)"));
+	Create(strWndClass, _T("Line Draw Application (Capture Enabled)"));
 }
 
 void CMainWindow::OnLButtonDown(UINT nFlags, CPoint point)
