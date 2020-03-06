@@ -7,3 +7,10 @@
 /HelloWorldApp/Debug
 *.pdb
 *.ilk
+*.bsc
+*.bsc
+*.tlog
+*.log
+*.obj
+*.idb
+/SpreadSheet/res
