@@ -24,7 +24,7 @@ END_MESSAGE_MAP()
 
 CMainWindow::CMainWindow()
 {
-	Create(NULL, _T("The Hello Application"));
+	Create(NULL, _T("Hello Application Window Title"));
 }
 
 void CMainWindow::OnPaint()
