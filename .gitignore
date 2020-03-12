@@ -17,3 +17,5 @@
 *.bsc
 *.bsc
 *.bsc
+*.exe
+*.pch
