@@ -15,7 +15,7 @@
 *.idb
 /SpreadSheet/res
 *.bsc
-*.bsc
-*.bsc
+*.exe
+*.pch
 /Shapes/Debug
 /Debug
