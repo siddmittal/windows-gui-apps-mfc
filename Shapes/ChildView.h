@@ -31,6 +31,17 @@ public:
 	// Generated message map functions
 protected:
 	afx_msg void OnPaint();
+	//afx_msg void OnShapeCircle();
+	//afx_msg void OnShapeTriangle();
+	//afx_msg void OnShapeSquare();
 	DECLARE_MESSAGE_MAP()
+public:
+	int m_nShape = 1;
+	afx_msg void OnShapeCircle();
+	afx_msg void OnShapeSquare();
+	afx_msg void OnShapeTriangle();
+	afx_msg void OnUpdateShapeCircle(CCmdUI *pCmdUI);
+	afx_msg void OnUpdateShapeSquare(CCmdUI *pCmdUI);
+	afx_msg void OnUpdateShapeTriangle(CCmdUI *pCmdUI);
 };
 

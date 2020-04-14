@@ -13,6 +13,7 @@
 *.log
 *.obj
 *.idb
+*.exe
 /SpreadSheet/res
 *.bsc
 *.exe
